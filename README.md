@@ -1,2 +1,2 @@
 # simulador-de-gravedad
-He desarrollado un simulador de físicas básicas en la Luna utilizando únicamente código en C++. Este proyecto permite visualizar y experimentar con las leyes de la física adaptadas a la gravedad lunar.
+He desarrollado un simulador de físicas básicas para todos los planetas, planetas enanos, el Sol y el sistema solar, utilizando únicamente código en C++. Este proyecto permite visualizar y experimentar con las leyes de la física, adaptando la simulación a la gravedad y otros factores específicos de cada cuerpo celeste, incluyendo la Luna y los diferentes planetas y sus características.
